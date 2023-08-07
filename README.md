@@ -5,3 +5,4 @@ Use the nmap XML output to launch a headless burp suite PRO (you need the paid v
 You can add or change the ports in the script which are currently just 80 and 443 as internally youll probably come up with far more such as 8080
 or 8443 etc.
 
+Not to replace manual checking but to add to and assist in finding the low hanging fruit while manually checking other things not so easily scanned.
