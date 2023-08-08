@@ -1,3 +1,4 @@
+# github.com/xelerated/nmap2burp Testing for use with OSSTMM Web and API testing www.isecom.org
 import os
 import subprocess
 import requests
